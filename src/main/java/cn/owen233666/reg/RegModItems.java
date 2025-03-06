@@ -15,7 +15,7 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-import static cn.owen233666.ExampleMod.MODID;
+import static cn.owen233666.RusticCraft.MODID;
 
 public class RegModItems {
 
